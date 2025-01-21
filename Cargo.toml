@@ -1,5 +1,5 @@
 [package]
-name = "port_scanner"
+name = "portblaster"
 version = "0.1.0"
 edition = "2021"
 
